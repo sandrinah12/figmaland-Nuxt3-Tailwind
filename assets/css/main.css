@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.h4-section{
+    color: #374754;
+}
+.text-heading{
+    color: #252B42;
+}
